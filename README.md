@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wojtekkoc&label=Profile%20views&color=0e75b6&style=flat" alt="wojtekkoc" /> </p>
 
-<p align="center"> 🔭 I’m currently working on react project </p>
-
 <p align="center"> 👨‍💻 All of my projects are available at https://kreatywnapasja.pl/ </p>
 
 <p align="center"> 💬 Ask me about HTML, CSS, JavaScript, React </p>
