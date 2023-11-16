@@ -1,25 +1,24 @@
-<p align="center">&nbsp;<img align="center" src="https://kreatywnapasja.pl/images/github_baner.png" alt="wojtekkoc" /></p>
+ # Witaj! 👋
 
-<h1 align="center">Hi 👋, I'm Wojciech Koc</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+I am a software developer with more than two years of experience in the web technology industry, committed to creating comprehensive solutions from scratch. My journey in the world of code focuses on delivering functional web applications, dedicated systems and interactive websites.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wojtekkoc&label=Profile%20views&color=0e75b6&style=flat" alt="wojtekkoc" /> </p>
+## 🌐 What I Do Everyday:
+- creation and maintenance of online stores on PrestaShop and WordPress platforms,
+- creation and editing of websites,
+- administration of SSH servers using Putty,
+- working on databases,
+- working with Figma to visualize and plan new projects from concept to completion.
 
-<p align="center"> 👨‍💻 All of my projects are available at https://kreatywnapasja.pl/ </p>
+## 🚀 My Objectives:
+- to continuously improve my skills in new technologies and solutions,
+- to broaden my horizons by participating in projects that will unleash my creativity and programming skills.
 
-<p align="center"> 💬 Ask me about HTML, CSS, JavaScript, React </p>
+## 🤝 Always Willing To:
+- network and collaborate with technology enthusiasts,
+- exploring new programming challenges that will allow me to grow.
 
-<p align="center"> 📫 How to reach me <a href="mailto:kocwojciech00@gmail.com">kocwojciech00@gmail.com</a></p>
+## 🔍 How To Find Me:
+- LinkedIn: [https://www.linkedin.com/in/wojciech-koc-05a28b224/](https://www.linkedin.com/in/wojciech-koc-05a28b224/)
+- E-mail: [kocwojciech00@gmail.com](mailto:kocwojciech00@gmail.com)
 
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/wojciech-koc-05a28b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wojciech-koc-05a28b224" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wojtekkoc&show_icons=true&locale=en" alt="wojtekkoc" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wojtekkoc&" alt="wojtekkoc" /></p>
+💬 If you want to talk about new technologies, joint projects or programming, feel free to contact me!
