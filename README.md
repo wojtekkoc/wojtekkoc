@@ -1,4 +1,4 @@
- # Witaj! 👋
+ # Hello World! 👋
 
 I am a software developer with more than two years of experience in the web technology industry, committed to creating comprehensive solutions from scratch. My journey in the world of code focuses on delivering functional web applications, dedicated systems and interactive websites.
 
